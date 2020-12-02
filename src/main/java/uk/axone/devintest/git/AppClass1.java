@@ -5,8 +5,4 @@ public class AppClass1 {
         System.out.println("doing something");
     }
 
-    public void method5(){
-
-    }
-
 }
