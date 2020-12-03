@@ -8,4 +8,6 @@ public class AppClass2 {
     public void loveReading(){
 
     }
+
+    //initialising new method
 }
